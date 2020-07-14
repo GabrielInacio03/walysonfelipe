@@ -46,12 +46,7 @@ My name is Walyson and I'm Back-end developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
-
- 
- 
-![Walyson Felipe github stats](https://github-readme-stats.vercel.app/api?username=walysonfelipe&show_icons=true&hide_border=true)
-
-
+![GitHub followers](https://img.shields.io/github/followers/walysonfelipe?label=Follow&style=social)
+<img src="https://visitor-badge.glitch.me/badge?page_id=walysonfelipe.walysonfelipe" alt="visitor badge"/>
 
 
