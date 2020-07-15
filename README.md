@@ -18,6 +18,9 @@
   <img align="left" alt="walysonfelipe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+![GitHub followers](https://img.shields.io/github/followers/walysonfelipe?label=Follow&style=social)
+
+
 
 
 <br />
@@ -31,7 +34,7 @@ My name is Walyson and I'm Back-end developer.
  - 💙 In love with PHP
  - 🌱 Currently learning Node.js, React.js, React Native, Vue.js and UX\UI
  - 😄 Also Designer Graphic
- - ⚡ Acess my site (http://www.kodana.tech)
+ - ⚡ See now my startup http://kodana.tech
  
  **Languages and Tools:**  
 
@@ -45,8 +48,4 @@ My name is Walyson and I'm Back-end developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![GitHub followers](https://img.shields.io/github/followers/walysonfelipe?label=Follow&style=social)
-<img src="https://visitor-badge.glitch.me/badge?page_id=walysonfelipe.walysonfelipe" alt="visitor badge"/>
-
 
