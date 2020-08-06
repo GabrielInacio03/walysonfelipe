@@ -32,7 +32,7 @@
 My name is Walyson and I'm Back-end developer.
 
  - 💙 In love with PHP
- - 🌱 Currently learning Front-End(Html, Css, Js e react) 
+ - 🌱 Currently learning JS stack (Node, React.js, React Native) and Ux design.
  - 😄 Also Designer Graphic
  - ⚡ See now my startup http://kodana.tech
  
