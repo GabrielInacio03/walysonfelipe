@@ -29,12 +29,10 @@
 ### Hellooo World! Welcome to my profile 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
   <img align="right" alt="GIF" src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969"  width="530px"/>
-My name is Walyson and I'm Back-end developer.
+My name is Walyson and I'm Full-Stack developer ⚡.
 
  - 💙 In love with PHP
  - 🌱 Currently learning JS stack (Node, React.js, React Native) and Ux design.
- - 😄 Also Designer Graphic
- - ⚡ See now my startup http://kodana.tech
  
  **Languages and Tools:**  
 
