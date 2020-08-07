@@ -28,7 +28,7 @@
 
 ### Hellooo World! Welcome to my profile 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-  <img align="right" alt="GIF" src="https://i2.wp.com/i.giphy.com/media/349qKnoIBHK1i/giphy-downsized.gif?w=770&ssl=1"  width="530px"/>
+  <img align="right" alt="GIF" src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969"  width="530px"/>
 My name is Walyson and I'm Back-end developer.
 
  - 💙 In love with PHP
