@@ -1,18 +1,8 @@
 
 # Walyson Felipe 👨‍💻
 
-
-<a href="https://twitter.com/walysonfelipee">
-  <img align="left" alt="Walyson Felipe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/walysonfelipee/">
   <img align="left" alt="walysonfelipee LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/walysonfelipee">
-  <img align="left" alt="Walysonfelipe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/kodanaworkspace/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.github.com/user/walysonfelipe/">
   <img align="left" alt="walysonfelipe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -26,13 +16,14 @@
 <br />
 <br />
 
-### Hellooo World! Welcome to my profile 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hellooo World! Welcome to my profile 👋 <img src="hhttps://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" width="24px">
 
-  <img align="left" alt="GIF" src="https://i.pinimg.com/originals/74/5f/d3/745fd3d279f7c5f27dc4e12fd583e68f.gif"  width="530px"/>
-My name is Walyson and I'm Back-End Developer | GoStack 11 student ⚡.
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/74/5f/d3/745fd3d279f7c5f27dc4e12fd583e68f.gif"  width="330px"/>
+  My name is Walyson and I'm Back-End Developer | Doing the
+Rocketseat GoStack 13.0 bootcamp.
 
  - 💙 In love with PHP
- - 🌱 Currently learning JS stack (Node, React.js, React Native) and Ux design.
+ - 🌱 Currently learning Node, React.js, React Native.
  
  **Languages and Tools:**  
 
