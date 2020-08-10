@@ -28,7 +28,7 @@
 
 ### Hellooo World! Welcome to my profile 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-  <img align="right" alt="GIF" src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969"  width="530px"/>
+  <img align="left" alt="GIF" src="https://i.pinimg.com/originals/74/5f/d3/745fd3d279f7c5f27dc4e12fd583e68f.gif"  width="530px"/>
 My name is Walyson and I'm Back-End Developer | GoStack 11 student ⚡.
 
  - 💙 In love with PHP
