@@ -8,8 +8,9 @@
   <img align="left" alt="walysonfelipe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-![GitHub followers](https://img.shields.io/github/followers/walysonfelipe?label=Follow&style=social)
 
+![GitHub followers](https://img.shields.io/github/followers/walysonfelipe?label=Follow&style=social)
+[![GitHub watchers](https://img.shields.io/github/watchers/walysonfelipe/walysonfelipe?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/walysonfelipe/StrapDown.js/watchers/)
 
 
 
