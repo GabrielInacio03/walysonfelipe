@@ -1,16 +1,16 @@
-### Hellooo World! Welcome to my profile 👋  
 
-  My name is Walyson Felipe  and I'm Back-End Developer 👨‍💻
+# Walyson Felipe 👨‍💻
+
+### Hellooo World! Welcome to my profile 👋 <img src="hhttps://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" width="24px">
+
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/gifs/Developer.gif"  width="330px"/>
+  My name is Walyson and I'm Back-End Developer 
 
  - 💙 In love with PHP
 - 📚 Currently studying full stack development at [Rocketseat🚀](https://rocketseat.com.br/).
 
 
-![Walyson Felipe github stats](https://github-readme-stats.vercel.app/api?username=walysonfelipe&show_icons=true&hide_border=true)
 
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"  width="500px"/>
-  
 
  **Languages and Tools:**  
 
@@ -24,6 +24,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 
 
