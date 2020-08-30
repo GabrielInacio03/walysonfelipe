@@ -1,10 +1,6 @@
+### Hellooo World! Welcome to my profile 👋  
 
-# Walyson Felipe 👨‍💻
-
-### Hellooo World! Welcome to my profile 👋 <img src="hhttps://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" width="24px">
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"  width="410px"/>
-  My name is Walyson and I'm Back-End Developer 
+  My name is Walyson Felipe  and I'm Back-End Developer 👨‍💻
 
  - 💙 In love with PHP
 - 📚 Currently studying full stack development at [Rocketseat🚀](https://rocketseat.com.br/).
@@ -13,6 +9,8 @@
 ![Walyson Felipe github stats](https://github-readme-stats.vercel.app/api?username=walysonfelipe&show_icons=true&hide_border=true)
 
 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"  width="500px"/>
+  
 
  **Languages and Tools:**  
 
