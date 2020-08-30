@@ -3,24 +3,11 @@
 
 ### Hellooo World! Welcome to my profile 👋 <img src="hhttps://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" width="24px">
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"  width="380px"/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"  width="410px"/>
   My name is Walyson and I'm Back-End Developer 
 
  - 💙 In love with PHP
 - 📚 Currently studying full stack development at [Rocketseat🚀](https://rocketseat.com.br/).
-
-
- <p align="center"> 
-  <h4>Social Networks</h4u>
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellersonprenholato/)](https://www.linkedin.com/in/walysonfelipee/)
-  [![Github Badge](https://img.shields.io/badge/-Github-blue?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/wellersonprenholato/)](https://www.gihub.com/walysonfelipe/)
-
-  <a aria-label="Completed" href="https://app.rocketseat.com.br/me/walysonfelipe">
-    <img src="https://img.shields.io/badge/Profile%20RocketSeat-GoStack%2013.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
-  </a>
-  
-</p>
 
 
 ![Walyson Felipe github stats](https://github-readme-stats.vercel.app/api?username=walysonfelipe&show_icons=true&hide_border=true)
@@ -42,3 +29,14 @@
 
 
 
+ <p align="center"> 
+  <h4>Social Networks</h4u>
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellersonprenholato/)](https://www.linkedin.com/in/walysonfelipee/)
+  [![Github Badge](https://img.shields.io/badge/-Github-blue?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/wellersonprenholato/)](https://www.gihub.com/walysonfelipe/)
+
+  <a aria-label="Completed" href="https://app.rocketseat.com.br/me/walysonfelipe">
+    <img src="https://img.shields.io/badge/Profile%20RocketSeat-GoStack%2013.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  </a>
+  
+</p>
